@@ -1,4 +1,4 @@
-package net.chandol.study;
+package net.chandol.study.board;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
